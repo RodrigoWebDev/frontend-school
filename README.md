@@ -48,3 +48,16 @@ Nesse módulo você vai aprender a fazer o controle de versão do seu código co
 ### Desafio
 
 Apesar do tutorial ja dar alguns desafios, eu gostaria de complementar com um novo desafio que é subir o site que você fez no módulo anterior no github
+
+## Modulo 3 - Se aprofundando no CSS (Parte 1)
+
+Nesse modulo você vai aprender recursos mais avançados do CSS como flexbox para criar estruturas de layout
+
+### Estudo
+
+- [Conceitos basicos de Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+- [Referência]([https://rogerdudler.github.io/git-guide/index.pt_BR.html](https://origamid.com/projetos/flexbox-guia-completo/)(OPCIONAL)
+
+### Desafio
+
+Replicar [ESSA PAGINA](https://codepen.io/RodrigoWebDev/full/wvmVxmZ) usando Flexbox e os outros conceitos de CSS que você ja aprendeu. Caso queira ver o código é só clicar no botão 'View in Editor' no topo superior direito ou entrar [NESSE LINK](https://codepen.io/RodrigoWebDev/pen/wvmVxmZ)
