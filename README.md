@@ -15,9 +15,8 @@ Outro ponto importante é que se você realmente esta comprometido com o aprendi
 
 ## Ferramentas e Softwares necessárias para começar
 
+- Um computador: acredite, apesar de ser possível programar pelo celular não é algo recomendado ja que não é um ambiente produtivo. Um computador basico ja serve
 - [Editor de código](https://notepad-plus-plus.org/downloads/): vai servir para você criar arquivos de código, e tem algumas funcionalidades uteis como deixar o texto do código colorido, trabalhar com multiplos arquivos e etc
-- [Terminal](https://cmder.app/): vai servir para você usar o GIT e o Node(será explicado melhor mais pra frente)
-- [Node](https://nodejs.org/en/): vai servir para você executar comandos no terminal como instalar dependencias no projeto(será explicado melhor mais pra frente)
 - [Navegador](https://www.google.com/intl/pt-BR/chrome/): auto explicativo
 
 ## Modulo 1 - O Basico
