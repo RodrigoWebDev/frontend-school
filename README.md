@@ -56,8 +56,8 @@ Nesse modulo você vai aprender recursos mais avançados do CSS como flexbox par
 ### Estudo
 
 - [Conceitos basicos de Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
-- [Referência]([https://rogerdudler.github.io/git-guide/index.pt_BR.html](https://origamid.com/projetos/flexbox-guia-completo/)(OPCIONAL)
+- [Referência](https://origamid.com/projetos/flexbox-guia-completo/)(OPCIONAL)
 
 ### Desafio
 
-Replicar [ESSA PAGINA](https://codepen.io/RodrigoWebDev/full/wvmVxmZ) usando Flexbox e os outros conceitos de CSS que você ja aprendeu. Caso queira ver o código é só clicar no botão 'View in Editor' no topo superior direito ou entrar [NESSE LINK](https://codepen.io/RodrigoWebDev/pen/wvmVxmZ)
+Replicar [ESSA PAGINA](https://codepen.io/RodrigoWebDev/full/wvmVxmZ) usando Flexbox e os outros conceitos de CSS que você ja aprendeu. Caso queira ver o código é só clicar no botão 'View in Editor' no topo superior direito ou entrar [NESSE LINK](https://codepen.io/RodrigoWebDev/pen/wvmVxmZ). Você pode usar as imagens que você quiser, eu recomendo usar ese gerador: https://picsum.photos/, para usa basta cola a URL que ele fornece na pagina (https://picsum.photos/200/300) dentro do atributo `src` da imagem, caso queira tamanhos diferentes é só alterar os valores na própia URL, por exemplo https://picsum.photos/500/800
