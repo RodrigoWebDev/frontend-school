@@ -6,6 +6,7 @@ Esse documento assume que você esta no Windows, caso uma das ferramentas não e
 Outro ponto importante é que se você realmente esta comprometido com o aprendizado, eu recomendo que se siga as seguintes regras:
 
 - Não pule etapas
+- Estude se possível de segunda a sexta por no mínimo 30 minutos, mais importante do que estudar muitas horas é estudar todos os dias, nem que seja um pouco. Estudar por várias horas nem sempre significa que você conseguiu absorver todas essas horas de estudo
 - Tente fazer os desafios sem olhar as soluções deixadas no documento, caso você REALMENTE esteja travado em algum ponto, esta liberado olhar a solução APENAS para aquele ponto onde você travou. Isso vai estimular seu raciocínio lógico e solução de problemas
 - Só passe para os póximo tópico caso se sinta confortável com os modulo atual. Uma regra que eu uso pra mim é: Se eu estou conseguindo fazer o desafio sem precisar ver a solução, significa que eu dominei o tópico e posso seguir para o próximo
 - Após conseguir concluir o desafio, dê uma olhada an solução que eu deixei, isso é bom porque as vezes a sua forma de resolver foi diferente da minha, e tudo bem, o mais importante nesse momento é resolver o desafio
