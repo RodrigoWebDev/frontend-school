@@ -20,7 +20,7 @@ Outro ponto importante é que se você realmente esta comprometido com o aprendi
 
 ## Modulo 1 - O Basico
 
-### Construindo seu primerio site
+### Estudo
 
 - [Com será o seu site?](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 - [Lidando com arquivos](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
@@ -37,7 +37,10 @@ Provavelmente você não tem nenhum projeto para mostrar(vamos chegar la!), ent�
 
 Nesse módulo você vai aprender a fazer o controle de versão do seu código com o GIT e hospeda-lo online no github. A partir de agora você deve usar o GIT e o GITHUB para todos os novos projetos que você fizer, isso vai servir para montar seu portfolio
 
+### Estudo
+
 - [Tutorial completo de GIt e Github](https://www.youtube.com/watch?v=kB5e-gTAl_s)
+- [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)(OPCIONAL)
 
 ### Desafio
 
