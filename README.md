@@ -32,3 +32,13 @@ Outro ponto importante é que se você realmente esta comprometido com o aprendi
 
 Usando o que você aprendeu, crie o seu portfolio Front end. O Portfolio é um site onde você mostra os projetos que você ja desenvolveu e que comprova sua experiência.\
 Provavelmente você não tem nenhum projeto para mostrar(vamos chegar la!), então nesse primeiro momento coloque informações sobre você, como contato, redes sociais, foto etc. Será um ótimo recurso a ser usado em uma entrevista por exemplo. Esse desafio não terá um link para você consultar a solução, mas segue um link para você se inspirar: https://www.koombea.com/our-work/
+
+## Modulo 2 - Git
+
+Nesse módulo você vai aprender a fazer o controle de versão do seu código com o GIT e hospeda-lo online no github. A partir de agora você deve usar o GIT e o GITHUB para todos os novos projetos que você fizer, isso vai servir para montar seu portfolio
+
+- [Tutorial completo de GIt e Github](https://www.youtube.com/watch?v=kB5e-gTAl_s)
+
+### Desafio
+
+Apesar do tutorial ja dar alguns desafios, eu gostaria de complementar com um novo desafio que é subir o site que você fez no módulo anterior no github
