@@ -1,4 +1,4 @@
-# Como começar a aprender Front end
+# Aprenda Desenvolvimento Web Front end
 
 ## Antes de começar
 
@@ -11,6 +11,7 @@ Outro ponto importante é que se você realmente esta comprometido com o aprendi
 - Só passe para os póximo tópico caso se sinta confortável com os modulo atual. Uma regra que eu uso pra mim é: Se eu estou conseguindo fazer o desafio sem precisar ver a solução, significa que eu dominei o tópico e posso seguir para o próximo
 - Após conseguir concluir o desafio, dê uma olhada na solução que eu deixei, isso é bom porque as vezes a sua forma de resolver foi diferente da minha, e tudo bem, o mais importante nesse momento é resolver o desafio
 - Anote coisas como trechos de código, estilos, ou links que você perceber que esta usando com frequência e esquecendo. Você pode usar qualquer aplicativo de notas, mas recomendo um que você consiga salvar online, assim não tem a chance de você perder suas anotações
+- Caso você termine os módulos desse documento não pare por ai, continue pesquisando e estudando, procure novos desafios, tente replicar sistemas, participar de projetos de código aberto e até procurar um trabalho, como programador você nunca deve parar de apreder
 
 ## Ferramentas e Softwares necessárias para começar
 
@@ -20,6 +21,8 @@ Outro ponto importante é que se você realmente esta comprometido com o aprendi
 - [Navegador](https://www.google.com/intl/pt-BR/chrome/): auto explicativo
 
 ## Modulo 1 - O Basico
+
+Nesse módulo você vai aprender construindo um site o básico de HTML, CSS e Javascript que são as 3 pilares do desenvolvimento web front end
 
 ### Estudo
 
