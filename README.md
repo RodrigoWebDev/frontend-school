@@ -78,3 +78,16 @@ No módulo 1 você teve um breve contato com o Javascript, aqui você vai pratic
 
 Usando os conecitos que estudou, crie um contador similar a esse: https://codepen.io/RodrigoWebDev/full/NWYggeG
 
+## Modulo 5 - Menu de navegação responsivo
+
+Nesse módulo você vai aprender o que é responsividade e como fazer usando CSS, também vai aplicar um pouco de Javascript
+
+### Estudo
+
+- [CSS Media queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+- [Manipulação de classes dos elementos HTML com JS](https://www.w3schools.com/jsref/prop_element_classlist.asp)
+
+### Desafio
+
+Desenvolver uma barra de navegação responsiva similar a essa: https://codepen.io/RodrigoWebDev/pen/RwKBJyW?editors=0010. Tente redimensionar o tamanho da janela e vai ver que o elemento tem um comportamento diferente para tamanhos maiores e menores de tela
+
