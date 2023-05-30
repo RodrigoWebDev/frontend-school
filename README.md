@@ -43,7 +43,7 @@ Nesse módulo você vai aprender construindo um site o básico de HTML, CSS e Ja
 
 ### Estudo
 
-- [Iniciando no desenvolvimento web](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web)
+- [Iniciando no desenvolvimento web](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/Installing_basic_software)
 
 ### Desafio
 
