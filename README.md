@@ -14,11 +14,29 @@ Outro ponto importante é que se você realmente esta comprometido com o aprendi
 - Anote coisas como trechos de código, estilos, ou links que você perceber que esta usando com frequência e esquecendo. Você pode usar qualquer aplicativo de notas, mas recomendo um que você consiga salvar online, assim não tem a chance de você perder suas anotações
 - Caso você termine os módulos desse documento não pare por ai, continue pesquisando e estudando, procure novos desafios, tente replicar sistemas, participar de projetos de código aberto e até procurar um trabalho, como programador você nunca deve parar de apreder
 
-## Ferramentas e Softwares necessárias para começar
+### Requisitos técnicos
 
-- Um computador: acredite, apesar de ser possível programar pelo celular não é algo recomendado ja que não é um ambiente produtivo. Um computador basico ja serve
-- [Editor de código](https://notepad-plus-plus.org/downloads/): vai servir para você criar arquivos de código, e tem algumas funcionalidades uteis como deixar o texto do código colorido, trabalhar com multiplos arquivos e etc
+Você só vai precisar de conhecimentos basicos em operar seu sistema operacional em geral. Exemplo: 
+
+- Instalar e desinstalar softwares
+- Gerenciar arquivos e pastas
+- Navegar na internet
+
+### Ferramentas e Softwares
+
+- Um computador, apesar de ser possível programar pelo celular não é algo recomendado ja que não é um ambiente produtivo. Não precisa ser um computador top de linha, apenas um que não trave excessivamente
 - [Navegador](https://www.google.com/intl/pt-BR/chrome/): auto explicativo
+- [Editor de código](https://code.visualstudio.com/): vai servir para você criar arquivos de código, e tem algumas funcionalidades uteis como deixar o texto do código colorido, trabalhar com multiplos arquivos e etc
+
+### Configuração do editor
+
+Antes de começar a usar o VSCode, eu sugiro que você remova a funcionalidade de auto completar código porque isso pode atrapalhar seu progresso. Você precisa lembrar dos códigos e não depender dessa fucnionalidade. Ela pode ser muito útil quando você esta trabalhando e tem prazos, mas para estudo eu não recomendo. Para remover siga os passos a seguir
+
+- Vá em `File > Preferences > Settings`, [Ver imagem](https://github.com/RodrigoWebDev/frontend-school/assets/30677819/6f24dfb5-6554-4b44-b799-049078444e11)
+- No input de busca digite `acceptSuggestionOnCommitCharacter`
+- Desmarque a opção que aparecer, [Ver imagem](https://github.com/RodrigoWebDev/frontend-school/assets/30677819/824e2aae-8f80-457f-8f19-48d28c1312bb)
+
+Caso não esteja usando o Vscode recomendado nesse documento, não tem problema, só veja se seu editor tem essa funcionalidade ou qualquer outra que você identificar que pode atrapalhar seu aprendizado procure tutoriais de como desativa-las  temporariamente
 
 ## Modulo 1 - O Basico
 
@@ -26,11 +44,7 @@ Nesse módulo você vai aprender construindo um site o básico de HTML, CSS e Ja
 
 ### Estudo
 
-- [Com será o seu site?](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
-- [Lidando com arquivos](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-- [HTML básico](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- [CSS básico](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)
-- [JavaScript básico](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+- [Iniciando no desenvolvimento web](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web)
 
 ### Desafio
 
@@ -39,7 +53,7 @@ Provavelmente você não tem nenhum projeto para mostrar(vamos chegar la!), ent�
 
 ## Modulo 2 - Git
 
-Nesse módulo você vai aprender a fazer o controle de versão do seu código com o GIT e hospeda-lo online no github. A partir de agora você deve usar o GIT e o GITHUB para todos os novos projetos que você fizer, isso vai servir para montar seu portfolio
+Nesse módulo você vai aprender a fazer o controle de versão do seu código com o GIT e hospeda-lo online no github. A partir de agora você deve usar o GIT e o GITHUB para todos os novos projetos que você fizer, isso vai servir para montar seu portfolio. O portfolio é essencila para você conseguir seu primeiro trabalho
 
 ### Estudo
 
