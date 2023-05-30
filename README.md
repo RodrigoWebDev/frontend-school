@@ -101,12 +101,24 @@ Nesse módulo você vai aprender o que é responsividade e como fazer usando CSS
 
 ### Estudo
 
-- [CSS Media queries](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+- [O que é design responsivo](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Responsive_Design)
 - [Manipulação de classes dos elementos HTML com JS](https://www.w3schools.com/jsref/prop_element_classlist.asp)
 
 ### Desafio
 
-Desenvolver uma barra de navegação responsiva similar a [essa](https://codepen.io/RodrigoWebDev/full/RwKBJyW). Tente redimensionar o tamanho da janela e vai ver que o elemento tem um comportamento diferente para tamanhos maiores e menores de tela
+Desenvolver um menu de navegação responsivo similar a [esse](https://codepen.io/RodrigoWebDev/full/RwKBJyW). Tente redimensionar a janela do navegador e vai ver que o elemento tem um comportamento diferente para tamanhos maiores e menores de tela
 
 [Solução do desafio](https://codepen.io/RodrigoWebDev/pen/RwKBJyW?editors=0010)
 
+## Módulo 5 - Site responsivo
+
+Nesse módulo você vai juntar quase tudo o que você aprendeu nos módulos anteriores: HTML, CSS e GIT para criar um site a partir de um desenho(Design). Uma parte do trabalho do desenvolvedor Front End é colocar em formato de código um site que um Designer de UX/UI desenhou e é isso que você vai praticar nesse módulo, segue o passo a passo para começar
+
+Obs: Eu recomendo você repetir esse exercício até se sentir confortável em replicar websites com código. Não precisa ser o mesmo design, você pode usar qualquer outro que encontrar
+
+- Criar uma conta no Figma
+- Abrir [esse link](https://www.figma.com/file/5kvVZQrSXWO8SB4LPBakfr/homepage-(Community)?type=design&node-id=0-405&t=RJLoV2BBuC2XbRPH-0) contendo o design do site. Caso esse link eteja fora do ar, sinta-se livre para escolher um novo design [nesse link](https://www.uxcrush.com/figma-website-templates/). Você também pode procurar mais no google
+- Se o design que você escolheu tiver mais de uma tela não precisa desenvolver todas, escolha uma e siga em frente. Depois você pode usar as outras telas para praticar mais
+- Procure ser perfeccionista, prestando atenção em cada detalhe. Procure deixar o visual o mais próximo possível. Imagine que você esta recebendo dinheiro para fazer isso, e que seu cliente vai querer o site igual ao que esta no Design, nada mais, nada menos
+- Dentro do Figma você consegue insepcionar os elementos, assim você consegue informações do tipo da fonte, tamanho, espaçamentos, cores e etc
+- Links e botões não precisam ter ação ou redirecionamento
