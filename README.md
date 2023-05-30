@@ -48,7 +48,7 @@ Nesse módulo você vai aprender construindo um site o básico de HTML, CSS e Ja
 ### Desafio
 
 Usando o que você aprendeu, crie o seu portfolio Front end. O Portfolio é um site onde você mostra os projetos que você ja desenvolveu e que comprova sua experiência.\
-Provavelmente você não tem nenhum projeto para mostrar(vamos chegar la!), então nesse primeiro momento coloque informações sobre você, como contato, redes sociais, foto etc. Será um ótimo recurso a ser usado em uma entrevista por exemplo. Esse desafio não terá um link para você consultar a solução, mas segue um link para você se inspirar: https://www.koombea.com/our-work/
+Provavelmente você não tem nenhum projeto para mostrar(vamos chegar la!), então nesse primeiro momento coloque informações sobre você, como contato, redes sociais, foto etc. Será um ótimo recurso a ser usado em uma entrevista por exemplo. Esse desafio não terá um link para você consultar a solução, mas segue um link para você se inspirar: https://www.w3schools.com/w3css/tryw3css_templates_parallax.htm
 
 ## Modulo 2 - Git
 
