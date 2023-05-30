@@ -75,7 +75,9 @@ Nesse modulo você vai aprender recursos mais avançados do CSS como flexbox par
 
 ### Desafio
 
-Usando o GIT para fazer o controle de versão você vai replicar [ESSA PAGINA](https://codepen.io/RodrigoWebDev/full/wvmVxmZ) usando Flexbox e os outros conceitos de CSS que você ja aprendeu. Caso queira ver o código é só clicar no botão 'View in Editor' no topo superior direito ou entrar [NESSE LINK](https://codepen.io/RodrigoWebDev/pen/wvmVxmZ). Você pode usar as imagens que você quiser, eu recomendo usar ese gerador: https://picsum.photos/, para usar basta colar a URL que ele fornece na pagina (https://picsum.photos/200/300) dentro do atributo `src` da imagem, caso queira tamanhos diferentes é só alterar os valores na própia URL, por exemplo https://picsum.photos/500/800
+Usando o GIT para fazer o controle de versão você vai replicar [ESSA PAGINA](https://codepen.io/RodrigoWebDev/full/wvmVxmZ) usando Flexbox e os outros conceitos de CSS que você ja aprendeu. Use as mesmas imagens da pagina
+
+[Solução do desafio](https://codepen.io/RodrigoWebDev/pen/wvmVxmZ?editors=0100)
 
 ## Modulo 4 - Contador com Javascript
 
@@ -90,7 +92,9 @@ No módulo 1 você teve um breve contato com o Javascript, aqui você vai pratic
 
 ### Desafio
 
-Usando os conecitos que estudou, crie um contador similar a esse: https://codepen.io/RodrigoWebDev/full/NWYggeG
+Usando os conecitos que estudou, crie um contador similar a [esse:](https://codepen.io/RodrigoWebDev/full/NWYggeG). Tente também replicar os estilos usando CSS
+
+[Solução do desafio](https://codepen.io/RodrigoWebDev/pen/NWYggeG)
 
 ## Modulo 5 - Menu de navegação responsivo
 
@@ -103,5 +107,7 @@ Nesse módulo você vai aprender o que é responsividade e como fazer usando CSS
 
 ### Desafio
 
-Desenvolver uma barra de navegação responsiva similar a essa: https://codepen.io/RodrigoWebDev/pen/RwKBJyW?editors=0010. Tente redimensionar o tamanho da janela e vai ver que o elemento tem um comportamento diferente para tamanhos maiores e menores de tela
+Desenvolver uma barra de navegação responsiva similar a [essa](https://codepen.io/RodrigoWebDev/full/RwKBJyW). Tente redimensionar o tamanho da janela e vai ver que o elemento tem um comportamento diferente para tamanhos maiores e menores de tela
+
+[Solução do desafio](https://codepen.io/RodrigoWebDev/pen/RwKBJyW?editors=0010)
 
