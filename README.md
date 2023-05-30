@@ -110,7 +110,7 @@ Desenvolver um menu de navegação responsivo similar a [esse](https://codepen.i
 
 [Solução do desafio](https://codepen.io/RodrigoWebDev/pen/RwKBJyW?editors=0010)
 
-## Módulo 5 - Site responsivo
+## Módulo 6 - Site responsivo
 
 Nesse módulo você vai juntar quase tudo o que você aprendeu nos módulos anteriores: HTML, CSS e GIT para criar um site a partir de um desenho(Design). Uma parte do trabalho do desenvolvedor Front End é colocar em formato de código um site que um Designer de UX/UI desenhou e é isso que você vai praticar nesse módulo, segue o passo a passo para começar
 
